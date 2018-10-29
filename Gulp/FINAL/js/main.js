@@ -1,0 +1,1 @@
+"use strict";console.log("I am testing GULP");var testVar="This is a variable",testVar2=786876186158.1;

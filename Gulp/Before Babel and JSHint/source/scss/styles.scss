@@ -1,0 +1,8 @@
+$fontColor: #222;
+$testVar: whitesmoke;
+
+body {
+  min-height:100vh;
+  background:$testVar;
+  color:$fontColor;
+}

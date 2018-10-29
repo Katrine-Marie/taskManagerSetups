@@ -1,0 +1,11 @@
+$fontColor: #222;
+$testVar: whitesmoke;
+
+body {
+  min-height:100vh;
+  background:$testVar;
+  color:$fontColor;
+  border:1px solid;
+  hyphens:auto;
+}
+html {margin:0;}
